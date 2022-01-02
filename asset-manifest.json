@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Roll-Dice/static/css/main.75474f49.chunk.css",
+    "main.js": "/Roll-Dice/static/js/main.d0941202.chunk.js",
+    "main.js.map": "/Roll-Dice/static/js/main.d0941202.chunk.js.map",
+    "runtime-main.js": "/Roll-Dice/static/js/runtime-main.d65afd46.js",
+    "runtime-main.js.map": "/Roll-Dice/static/js/runtime-main.d65afd46.js.map",
+    "static/js/2.bb2ba114.chunk.js": "/Roll-Dice/static/js/2.bb2ba114.chunk.js",
+    "static/js/2.bb2ba114.chunk.js.map": "/Roll-Dice/static/js/2.bb2ba114.chunk.js.map",
+    "static/js/3.25c904f8.chunk.js": "/Roll-Dice/static/js/3.25c904f8.chunk.js",
+    "static/js/3.25c904f8.chunk.js.map": "/Roll-Dice/static/js/3.25c904f8.chunk.js.map",
+    "index.html": "/Roll-Dice/index.html",
+    "static/css/main.75474f49.chunk.css.map": "/Roll-Dice/static/css/main.75474f49.chunk.css.map",
+    "static/js/2.bb2ba114.chunk.js.LICENSE.txt": "/Roll-Dice/static/js/2.bb2ba114.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d65afd46.js",
+    "static/js/2.bb2ba114.chunk.js",
+    "static/css/main.75474f49.chunk.css",
+    "static/js/main.d0941202.chunk.js"
+  ]
+}
